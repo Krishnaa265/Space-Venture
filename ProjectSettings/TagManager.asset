@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - obstacle
+  - bullet
+  - critter
+  - boss1
+  - enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - smoke
+  - Water
+  - UI
+  - player
+  - levelboundaries
+  - obstacle
+  - critter
+  - bullet
+  - boss1
+  - enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: screen
+    uniqueID: 3857674403
+    locked: 0
+  - name: New Layer 1
+    uniqueID: 315330155
+    locked: 0
+  - name: enemy
+    uniqueID: 2297942807
+    locked: 0
+  - name: player
+    uniqueID: 895886273
+    locked: 0
+  - name: energySlider
+    uniqueID: 2674482657
+    locked: 0
+  - name: object
+    uniqueID: 2422984683
+    locked: 0
+  - name: energyslider
+    uniqueID: 1839604879
+    locked: 0
+  - name: effects
+    uniqueID: 754752817
+    locked: 0
+  m_RenderingLayers:
+  - Default
