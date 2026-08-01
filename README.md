@@ -1,4 +1,4 @@
-# Space Shooter Game (Unity)
+ # Space Shooter Game (Unity)
 
 A fast-paced 2D Space Shooter game built using Unity, where the player controls a spaceship, shoots incoming enemies, dodges obstacles, and aims for the highest score.
 
